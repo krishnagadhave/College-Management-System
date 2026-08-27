@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "vite": "^7.1.0",
+    "@vitejs/plugin-react-swc": "^3.11.0"
+  }
+}
